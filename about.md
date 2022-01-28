@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+elegantly empty
 
 ### More Information
 
-I try to learn something :): 
+ [<img src="{{ site.baseurl }}/images/cat1.jpg" alt="Constructocat by https://github.com/jasoncostello" style="width: 400px;"/>]({{ site.baseurl }}/)
 
 ### Contact me
 
-[email@hackademy.mx](ada_245@hackademy.mx)
+[email@hackademy.mx](ada_245@hackademy.mx) 
