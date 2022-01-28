@@ -8,7 +8,7 @@ elegantly empty
 
 ### More Information
 
-![cat1](/home/fiem/Documents/Hackademy/fiem1001.github.io/images/cat1.jpeg)
+ಠ▃ಠ
 
 ### Contact me
 
