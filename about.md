@@ -8,7 +8,7 @@ elegantly empty
 
 ### More Information
 
- [<img src="{{ site.baseurl }}/home/fiem/Documents/Hackademy/fiem1001.github.io/images/cat1.jpeg" alt="ey" style="width: 400px;"/>]({{ site.baseurl }}/)
+![cat1](/home/fiem/Documents/Hackademy/fiem1001.github.io/images/cat1.jpeg)
 
 ### Contact me
 
