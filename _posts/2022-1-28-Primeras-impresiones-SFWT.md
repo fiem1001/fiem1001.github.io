@@ -9,7 +9,7 @@ Espero poder actualizarlo con el paso del tiempo y animar a más personas a ser 
 
 En estos días, durante las mentorías del programa, hemos  visto diversos temas, técnicos y algunos un poco más enfocados a la vida cotidiana. Creo que los y las mentoras han sido demasiado pacientes con nosotras y han demostrado su manera profesional de manejar el bombardeo de dudas que se llegan a presentar durante una sesión técnica. 
 
-Lo primordial en estos días ha sido _introducirnos_ a las tecnologías, y por esto, hay muchas cosas que aún no logramos entender, como palabras que no habíamos escuchado antes, por lo que nos recomendaron hacer un **glosario** para poder familiarizarnos con la terminología geek. 🤓 
+Lo primordial, ha sido _introducirnos_ a las tecnologías, y por esto, hay muchas cosas que aún no logramos entender como palabras que no habíamos escuchado antes, por lo que nos recomendaron hacer un **glosario** para familiarizarnos con la terminología geek. 🤓 
 
 ![Image description](https://comunidad.padawan.dev/uploads/articles/bqvpglqeksf0u80j790f.png)
 
