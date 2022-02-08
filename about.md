@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Abrí este blog como parte de un proyecto en el que intento hablar más sobre mis experiencias incusionandome en el mundo de la tecnología, espero poder aportarle suficiente y que resulte útil/motivante para quienes tengan el valor de leerme. 
+I opened this blog as part of a project in which I try to tell about my experiences in my introduction to the world of technology, and other things. I hope to be able wrote enough to inspire/motivate other people with the same interests, or who simply have the courage of read me. 
 
 ### More Information
 
