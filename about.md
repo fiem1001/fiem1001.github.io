@@ -12,4 +12,4 @@ I opened this blog as part of a project in which I try to tell about my experien
 
 ### Contact me
 
-[email@hackademy.mx](ada_245@hackademy.mx)
+[email@riseup.net](knucklesbruised@riseup.net)
