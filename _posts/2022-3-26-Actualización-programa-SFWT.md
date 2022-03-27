@@ -23,4 +23,5 @@ Otro punto importante quizá, es la comunidad, me siento parte de algo bonito ah
 
 Si tú quieres incursionarte en el mundo de la tecnología desde la nada también, podrías tomar en cuenta estos puntos. Al final no son del todo malos, y todo es en variación a cada peersona, solo es para considerar cuando eres una persona sensible al estrés como yo.
 
-![MichaelScott](/images/michael.jpeg)
+![MichaelScott](/images/michael.jpeg) 
+
