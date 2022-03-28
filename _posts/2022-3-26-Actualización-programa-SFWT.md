@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Actualización SFWT. 
+title: Actualización SFWT 
 --- 
 
 Bueno, esta es una pequeña actualización de lo que he vivido en estos 2 meses ya cumplidos en el programa **SFWT**. Quiero pensar que al ser un blog personal, no caerán repercusiones sobre algunas de mis _quejas_. 
