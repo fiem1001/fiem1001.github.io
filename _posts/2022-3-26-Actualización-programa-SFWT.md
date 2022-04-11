@@ -7,7 +7,7 @@ Bueno, esta es una pequeña actualización de lo que he vivido en estos 2 meses 
 
 Por ahora no hay mucho qué decir salvo que la experiencia "apenas empieza", y lo entrecomillo porque estos 2 meses solo hemos tenido mentorías sobre introducción a la tecnología. Me parece muy viable para empezar desde cero, y para quienes no teníamos conocimientos tan avanzados de ciertos temas. Sin embargo, en lo personal, pienso que al darnos la base del iceberg, nos sumergen y nos sacan y nos hacen perder el hilo varias veces. 
 
-No estoy quejandome del programa, porque más adelante abordaré también los puntos buenos, pero estoy desahogandome un poco de las frustraciones que he llegado a sentir en base a esto. 
+Quizá más adelante abordaré también los puntos buenos, pero estoy desahogandome un poco de las frustraciones que he llegado a sentir en base a esto. 
 
 ![Help please](/images/sofaryet.jpeg)
 
@@ -17,13 +17,13 @@ También (y tal vez esto sea super personal), me gustaría un poco que las cosas
 
 Tengo que decir que esto me ha hecho sentir bastante desmotivada últimamente, ya que quizá en mis expectativas estaba un poco más de enfoque y menos "autodidactía", más por que nunca he sido buena aprendiendo por mi misma (aunque debería). En fin, realmente siento que puede valer la pena el esfuerzo y por eso no he dimitido.  
 
-Aún después de todo, definitivamente hay cosas buenas a resaltar, entre ellas está la **atención** recibida, la verdad es que muchas veces se han llegado a tener dudas a las 3 de la mañana, y siempre hay alguien despierta contestando hasta lo más redundante. Se agradece mucho la paciencia y el la dedicación que se nota, existe en **Hackademy**. 
+Aún después de todo, hay cosas buenas a resaltar, entre ellas está la **atención** recibida, muchas veces se han llegado a tener dudas a las 3 de la mañana, y siempre hay alguien despierta contestando hasta lo más redundante. Se agradece mucho la paciencia y el la dedicación que se nota, existe en **Hackademy**. 
 
 ![GoodJob](/images/babyboy.jpeg)
 
-Otro punto importante quizá, es la comunidad, me siento parte de algo bonito ahora, estoy en el proceso de hacer amigas y conocer personas nuevas con los mismos intereses. La verdad es que la gente que hay ahí es bonita en extremo y valen la pena. Por ahora solo nos queda esperar lo mejor y seguir dándole al código hasta donde los nervios alcancen. Y yo por otro lado desahogar una mejor y más estructurada opinión al respecto de esta grata, pero a veces desafortunada experiencia personal. 
+Otro punto importante quizá, es la comunidad, me siento parte de algo bonito ahora, estoy en el proceso de hacer amigas y conocer personas nuevas con los mismos intereses. Como ya dije antes, la gente que hay ahí es bonita en extremo y ayudan mucho a pasar los malos ratos. Por ahora solo nos queda esperar lo mejor y seguir dándole al código hasta donde los nervios alcancen. Y yo por otra parte, desahogar una mejor y más estructurada opinión al respecto de esta grata, pero a veces desafortunada experiencia personal. 
 
 Si tú quieres incursionarte en el mundo de la tecnología desde la nada también, podrías tomar en cuenta estos puntos. Al final no son del todo malos, y todo es en variación a cada persona, solo es para considerar cuando eres alguien tan sensible al estrés como yo.
 
-![MichaelScott](/images/michael.jpeg) 
+![MichaelScott](/images/michael.jpeg) valen la pena
 
