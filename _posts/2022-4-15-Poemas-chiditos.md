@@ -5,7 +5,7 @@ title: Poemas chiditos de por ahí
 
 Adjunto algunos de los poemas que me han gustado mucho. Actualizo conforme encuentre algunos otros (o los que me faltan)...
 
-**La caída** 
+## **La caída** 
 
 Si te dicen que caí
 es que caí.
@@ -44,7 +44,7 @@ es desmoronarse porque sí.
 
 _Beatriz Vignoli_, _Argentina_ 
 
-**Ir y quedarse** 
+## **Ir y quedarse** 
 
 
 Ir y quedarse, y con quedar partirse,
@@ -65,15 +65,15 @@ creer sospechas y negar verdades,
 es lo que llaman en el mundo ausencia,
 fuego en el alma, y en la vida infierno.
 
-_Lope de Vega_ _España_ 
+_Lope de Vega_ , _España_ 
 
-**Revisión de causa** 
+## **Revisión de causa** 
 
 Dolor el de la serpiente que no posee párpados.
 Cómo no tener el veneno de saludo
 ignorando la fácil solución de incluirnos en la sombra?
 
-**Estudio con algo de tedio** 
+## **Estudio con algo de tedio** 
 
 (Diálogo de Fin de Partida de Beckett.)
 
@@ -108,5 +108,5 @@ Puede ser que vosotros no entendáis lo que son estas cosas.
 Os habla, más que yo, mi primer vino mientras la piel que
 sufro bebe sombra.
 
-_Roque Dalton_ _El Salvador_ 
+_Roque Dalton_, _El Salvador_ 
 
