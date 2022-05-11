@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Poemas (:
+title: Poemas 
 --- 
 
 Comparto un par de poemas que me agradan y me caen bien, podría (o no) ir actualizando con el tiempo si encuentro más... 
