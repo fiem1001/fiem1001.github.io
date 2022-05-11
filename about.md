@@ -8,7 +8,8 @@ I opened this blog as part of a project in which I try to tell about my experien
 
 ### More Information
 
-ಠ▃ಠ
+I've been working on this project, with another girls (:  
+https://github.com/hackademymx/equipo-11-back 
 
 ### Contact me
 
