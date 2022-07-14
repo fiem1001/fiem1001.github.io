@@ -3,7 +3,7 @@ layout: post
 title: ¿Inteligencia? Lógico Matemática
 --- 
 
-Sentía mucha necesidad se escribir sobre esto porque en los últimos meses me he encontrado con personas absolutamente **cerradas**, por llamarles de alguna forma, que realmente siguen pensando que si no eres unx físicx nuclear, o Ingenierx de algo, no vales **nada**. Y me parece bien absurdo y contradictorio, que encima de absolutizar la "inteligencia" en una sola forma de pensamiento, se crean mejores que lxs demás solo por entender operaciones. 
+Sentía mucha necesidad se escribir sobre esto porque en los últimos meses me he encontrado con personas todas **cerradas**, por llamarles de alguna forma, que realmente siguen pensando que si no eres unx físicx nuclear, o Ingenierx de algo, no vales **nada**. Y me parece bien absurdo y contradictorio, que encima de absolutizar la "inteligencia" en una sola forma de pensamiento, se crean mejores que lxs demás solo por entender operaciones. 
 
 ![Homero](/images/soyintelectual.jpg)
 
