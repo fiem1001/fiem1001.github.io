@@ -44,7 +44,7 @@ Lo único que sabe hacer el universo
 es derrumbarse sin ningún motivo,  
 es desmoronarse porque sí.* 
 
-
+estarme
 ## Ir y quedarse 
 ### Lope de Vega 
 
@@ -66,4 +66,53 @@ y lo que es temporal llamar eterno;*
 es lo que llaman en el mundo ausencia,  
 fuego en el alma, y en la vida infierno.* 
 
+## Todo es muy simple 
+### Idea Vilariño 
 
+*Todo es muy simple mucho  
+ más simple y sin embargo  
+ aún así hay momentos  
+ en que es demasiado para mí  
+ en que no entiendo  
+ y no sé si reírme a carcajadas  
+ o si llorar de miedo  
+ o estarme aquí sin llanto  
+ sin risas  
+ en silencio  
+ asumiendo mi vida,  
+ mi tránsito ,  
+ mi tiempo.* 
+
+ ## Poema de amor
+ ### Richard Brautigan
+
+*Es precioso  
+despertar en la mañana  
+solo  
+y no tener que decirle a nadie  
+que lo amas  
+cuando ya no lo amas  
+más.*  
+
+## Agujero de Estrella 
+### Richard Brautigan 
+
+*Me siento aquí,  
+en el perfecto borde  
+de una estrella,*  
+
+*miro su luz  
+volcarse  
+hacia mí.*  
+
+*La luz se vierte  
+a través  
+de un pequeño agujero  
+en el cielo.*  
+
+*No soy muy feliz,  
+pero puedo mirar  
+las cosas habitar  
+la lejanía.*  
+
+ 
