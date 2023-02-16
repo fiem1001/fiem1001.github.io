@@ -83,8 +83,8 @@ fuego en el alma, y en la vida infierno.*
  mi tránsito ,  
  mi tiempo.* 
 
- ## Poema de amor
- ### Richard Brautigan
+## Poema de amor
+### Richard Brautigan
 
 *Es precioso  
 despertar en la mañana  
