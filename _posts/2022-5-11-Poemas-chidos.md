@@ -116,3 +116,44 @@ las cosas habitar
 la lejanía.*  
 
  
+## FRAGMENTO DE "EL MANTO Y LA CORONA"
+### Rubén Bonifaz Nuño (modificado)
+
+*Cada día levanto,  
+entre mi corazón y el sufrimiento  
+que tú sabes hacer, una delgada  
+pared, un muro simple.  
+Con trabajo solicito,  
+con material de paz, con silenciosos  
+bienamados instantes, alzo un muro  
+que rompes cada día.*  
+
+*No estás para saberlo. Cuando a solas  
+camino, cuando nadie  
+puede mirarme, pienso en ti: y entonces  
+aldo me das, sin tú saberlo, tuyo.  
+Y el amor me acongoja,  
+me lleva de tu mano a ser de nuevo  
+el discípulo fiel de la amargura,  
+cuando desesperadamente trato  
+de estar alegre.*  
+
+*Porque soy fuerte aguanto sin quejarme  
+que la vida me pese:  
+porque soy fuerte, puedo. He conseguido  
+que ni tú mismo sepas  
+que estoy quebrada en dos, que disimulo;  
+que no soy quien habla con las gentes,  
+que mis dientes se ríen por su cuenta  
+mientras estoy, aquí detrás, llorando.*  
+
+*Yo sé que inútilmente  
+me defiendo de ti; que sin trabajo  
+me tomas por la fuerza, o me sobornas  
+con tu sola presencia. Estoy vencida.  
+Ni siquiera podrías evitarlo.  
+Hasta en mi contra, estoy de parte tuya:  
+soy tu aliada mejor cuando me hieres.*  
+
+
+
