@@ -116,7 +116,7 @@ las cosas habitar
 la lejanía.*  
 
  
-## FRAGMENTO DE "EL MANTO Y LA CORONA"
+## Fragmento de "El manto y la corona"
 ### Rubén Bonifaz Nuño (modificado)
 
 *Cada día levanto,  
@@ -131,7 +131,7 @@ que rompes cada día.*
 *No estás para saberlo. Cuando a solas  
 camino, cuando nadie  
 puede mirarme, pienso en ti: y entonces  
-aldo me das, sin tú saberlo, tuyo.  
+algo me das, sin tú saberlo, tuyo.  
 Y el amor me acongoja,  
 me lleva de tu mano a ser de nuevo  
 el discípulo fiel de la amargura,  
