@@ -137,9 +137,9 @@ el discípulo fiel de la amargura,
 cuando desesperadamente trato  
 de estar alegre.*  
 
-*Porque soy fuerte aguanto sin quejarme  
+*Porque soy ***fuerte*** aguanto sin quejarme  
 que la vida me pese:  
-porque soy fuerte, puedo. He conseguido  
+porque soy ***fuerte***, puedo. He conseguido  
 que ni tú mismo sepas  
 que estoy quebrada en dos, que disimulo;  
 que no soy quien habla con las gentes,  
