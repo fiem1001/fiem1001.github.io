@@ -158,7 +158,7 @@ soy tu aliada mejor cuando me hieres.*
 
 
 ## Yo no dudo, Lisarda, que te quiero... 
-## Sor Juana Inés de la Cruz 
+### Sor Juana Inés de la Cruz 
 
 *"Un celoso refiere el común pesar que todos padecen,  
 y advierte a la causa,  
