@@ -160,25 +160,26 @@ soy tu aliada mejor cuando me hieres.*
 ## Yo no dudo, Lisarda, que te quiero... 
 ## Sor Juana Inés de la Cruz 
 
-* "Un celoso refiere el común pesar que todos padecen, 
+*"Un celoso refiere el común pesar que todos padecen, 
  y advierte a la causa, 
- el fin que puede tener la lucha de afectos encontrados"* 
+el fin que puede tener la lucha de afectos encontrados"* 
 
-*Yo no dudo, Lisarda, que te quiero, 
-aunque sé que me tienes agraviado; 
-mas estoy tan amante y tan airado, 
-que afectos que distingo no prefiero.* 
-
+*Yo no dudo, Lisarda, que te quiero,
+aunque sé que me tienes agraviado;
+mas estoy tan amante y tan airado,
+que afectos que distingo no prefiero.*
+ 
 *De ver que odio y amor te tengo, infiero
-que ninguno estar puede en sumo grado,         
-pues no le puede el odio haber ganado         
-sin haberle perdido amor primero.* 
+que ninguno estar puede en sumo grado,
+pues no le puede el odio haber ganado
+sin haberle perdido amor primero.*
 
-*Y si piensas que el alma que te quiso         
+*Y si piensas que el alma que te quiso
 lo ha de estar siempre a tu afición ligada,
-de tu satisfacción vana te aviso,* 
+de tu satisfacción vana te aviso,*
 
-*pues si el amor al odio ha dado entrada,         
-el que bajo de sumo a ser remiso,         
-de lo remiso pasará a ser nada.* 
+*pues si el amor al odio ha dado entrada,
+el que bajo de sumo a ser remiso,
+de lo remiso pasará a ser nada.*
+
  
