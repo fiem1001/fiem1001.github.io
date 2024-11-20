@@ -44,9 +44,8 @@ Lo único que sabe hacer el universo
 es derrumbarse sin ningún motivo,  
 es desmoronarse porque sí.* 
 
-estarme
 ## Ir y quedarse 
-### Lope de Vega 
+#### Lope de Vega 
 
 *Ir y quedarse, y con quedar partirse,  
 partir sin alma, y ir con alma ajena,  
@@ -67,7 +66,7 @@ es lo que llaman en el mundo ausencia,
 fuego en el alma, y en la vida infierno.* 
 
 ## Todo es muy simple 
-### Idea Vilariño 
+#### Idea Vilariño 
 
 *Todo es muy simple mucho  
  más simple y sin embargo  
@@ -84,7 +83,7 @@ fuego en el alma, y en la vida infierno.*
  mi tiempo.* 
 
 ## Poema de amor
-### Richard Brautigan
+#### Richard Brautigan
 
 *Es precioso  
 despertar en la mañana  
@@ -95,7 +94,7 @@ cuando ya no lo amas
 más.*  
 
 ## Agujero de Estrella 
-### Richard Brautigan 
+#### Richard Brautigan 
 
 *Me siento aquí,  
 en el perfecto borde  
@@ -117,7 +116,7 @@ la lejanía.*
 
  
 ## Fragmento de "El manto y la corona"
-### Rubén Bonifaz Nuño (modificado)
+#### Rubén Bonifaz Nuño (modificado)
 
 *Cada día levanto,  
 entre mi corazón y el sufrimiento  
@@ -158,7 +157,7 @@ soy tu aliada mejor cuando me hieres.*
 
 
 ## Yo no dudo, Lisarda, que te quiero... 
-### Sor Juana Inés de la Cruz 
+#### Sor Juana Inés de la Cruz 
 
 *"Un celoso refiere el común pesar que todos padecen,  
 y advierte a la causa,  
