@@ -180,3 +180,20 @@ de tu satisfacción vana te aviso,*
 *pues si el amor al odio ha dado entrada,  
 el que bajo de sumo a ser remiso,  
 de lo remiso pasará a ser nada.*  
+
+## Memoria
+### José Emilio Pacheco
+
+*No tomes muy en serio  
+lo que te dice la memoria.*  
+
+*A lo mejor no hubo esa tarde.  
+Quizá todo fue autoengaño.  
+La gran pasión  
+sólo existió en tu deseo.*  
+
+*Quién te dice que no te está contando ficciones  
+para alargar la prórroga del fin  
+y sugerir que todo esto  
+tuvo al menos algún sentido.*  
+  
